@@ -1,5 +1,5 @@
 import { FormEvent, useState } from 'react';
-import styles from './PostComments.module.css';
+import styles from  './Post.module.css';
 
 import Comment from '../../models/Comment';
 

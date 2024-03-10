@@ -6,9 +6,15 @@
 }
 
 .post-comments {
+    color: #444;
+    font-size: 12px;
+    line-height: 20px;
+    background-color: #ffff9f;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin-bottom: 8px;
     
 }
-
 .post-comment {
     color: #444;
     font-size: 12px;
